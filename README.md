@@ -16,24 +16,24 @@ I'm a passionate **Data Science** and **Data Analytics** enthusiast who loves tr
 
 ## 🧩 Featured Projects
 
-### 🔹 [Banking Automation](https://github.com/Bhumika1808/BankingAutomation)
+### 🔹 **[💼 Banking Automation](https://github.com/Bhumika1808/BankingAutomation)**
 Streamlined banking processes using Python automation – customer onboarding, transaction handling, and fraud checks.
 
-### 🔹 [LENSR.ai - NLP Suite](https://github.com/Bhumika1808/Lensr.ai-eXpert)
+### 🔹 **[🧠 LENSR.ai - NLP Suite](https://github.com/Bhumika1808/Lensr.ai-eXpert)**
 A multi-model NLP platform with:
-- Sentiment analysis for restaurant reviews
-- News classification
-- Spam detection
-- Language identification
+- Sentiment analysis for restaurant reviews  
+- News classification  
+- Spam detection  
+- Language identification  
 - Movie recommendation system
 
-### 🔹 [Car Price Prediction App](https://github.com/Bhumika1808/Car-Price-Prediction)
+### 🔹 **[🚗 Car Price Prediction App](https://github.com/Bhumika1808/Car-Price-Prediction)**
 Deployed Streamlit app that predicts used car prices based on brand, model, fuel type, mileage, and year.
 
-### 🔹 [AtliQ Report - Excel Business Dashboard](https://github.com/Bhumika1808/Atliq-reports)
-Automated Excel dashboard reporting sales performance, and revenues across regions using dynamic charts, formulas, and pivot tables.
+### 🔹 **[📊 AtliQ Report - Excel Business Dashboard](https://github.com/Bhumika1808/Atliq-reports)**
+Automated Excel dashboard reporting sales performance and revenues across regions using dynamic charts, formulas, and pivot tables.
 
-### 🔹 [IPL Analysis Dashboard – Power BI](https://github.com/Bhumika1808/IPL-Data-Analysis)
+### 🔹 **[🏏 IPL Analysis Dashboard – Power BI](https://github.com/Bhumika1808/IPL-Data-Analysis)**
 Interactive Power BI dashboard analyzing player stats, match results, and team performance with DAX and Power Query.
 
 ---
@@ -54,14 +54,6 @@ Interactive Power BI dashboard analyzing player stats, match results, and team p
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhumika1808&theme=tokyonight" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika1808&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhumika1808&theme=tokyonight&no-bg=true&margin-w=10" />
 </p>
 
 ---
